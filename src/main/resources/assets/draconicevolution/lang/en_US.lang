@@ -55,6 +55,8 @@ item.draconicevolution:tclogo.name=TCLogo
 item.draconicevolution:draconicCore.name=Draconic Core
 item.draconicevolution:teleporterMKI.name=Charm of Dislocation
 item.draconicevolution:teleporterMKII.name=Enhanced Charm of Dislocation
+item.draconicevolution:nugget.draconium.name=Draconium Nugget
+item.draconicevolution:nugget.awakened.name=Awakened Draconium Nugget
 
 info.teleporterInfGUI.txt=Shift + Right click to open gui
 info.teleporterInfScroll.txt=Shift + scroll to cycle destinations
@@ -163,6 +165,7 @@ msg.draconiumChestEditL4.txt=Right click with paper to copy the colour to other 
 msg.draconiumChestEdit2.txt=Please use a single peace of paper
 msg.de.dragonDeath.txt=§5The heart is temporarily awakened by the dragons explosive §5death
 msg.de.baseSafeAOW.txt=§9(§aAOE §aSafe §aMode §ais §aenabled§9) §cOperation §cCanceled §cbecause §ca §ctile §centity §cwas §cdetected
+msg.SpawnDragonMustBeInTheEnd.txt=You must perform this ritual in the End dimension!
 
 //Energy Net
 msg.de.wrenchMode.bind.txt=Function: Bind

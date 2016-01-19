@@ -5,8 +5,8 @@
     "content":
     [
       "The very basis of Draconic Research.",
-      "This ore can be found in the overworld below y-level 8 as well as in The Nether at any y-level, although it is extremely rare in both. ",
-      "You can also find it in much larger quantities in The End, both in the main island and in the comets that randomly spawn throughout The End.",
+      "This ore can be found in the overworld below y-level 8 as well as in the Nether at any y-level, although it is extremely rare in both.",
+      "You can also find it in much larger quantities in the End, both in the main island and in the comets that randomly spawn throughout The End.",
       "Drops 1 - 3 Draconium Dust when mined. This can be increased up to 4 - 12 with the Fortune III enchantment."
     ]
   },
@@ -31,7 +31,7 @@
     "images":[],
     "content":
     [
-      "The product of smelting Draconium Dust in a furnace. Used in most Draconic Evolution recipes.",
+      "The product of smelting Draconium Dust in a furnace. It is used in most Draconic Evolution recipes.",
       "[c]item.draconicevolution:draconiumIngot:0"
     ]
   },
@@ -54,7 +54,7 @@
     "images":[],
     "content":
     [
-      "Used in the Ritual of Draconic Resurrection and the Ritual of Awakening. Place a Draconium Block in a charging device and 100 million RF later you have a Charged Draconium Block!",
+      "Used in the Ritual of Draconic Resurrection and the Ritual of Awakening. To charge a Draconium Block you need to place a Draconium Block into a charging device and fill it up with 100 million RF!",
       "[c]tile.draconicevolution:draconium:2"
     ]
   },
@@ -83,9 +83,9 @@
     [
       "This GUI is used to configure most Draconic Evolution tools and armor.",
       "The default key to open this gui is 'C'",
-      "When you open the GUI you will see all the items in your inventory. Items that can be configured will be highlighted. When you click on one of the highlighted items you will see a list of adjustable settings specific to that item.",
-      "You can also use this GUI to apply and remove enchantments. In the list of options for the item there is an inventory button. This will open a new GUI in which you will have access to your inventory.",
-      "Enchantment slots can be found the right. If the item has any additional inventory slots such as the obliteration filter for the Draconic tools those slots will show at the top of the GUI."
+      "When you open the GUI you will see all the items in your inventory. Items that can be configured will be highlighted. When you click on one of the highlighted items you may see a list of adjustable settings specific to that item.",
+      "In the list of options for the item there is an inventory button. This will open a new GUI in which you will have access to your inventory, you can use the inventory GUI to apply and remove enchantments via enchanted books.",
+      "Enchantment slots can be found the right. If the item has any additional inventory slots such as the trash filter for the Draconic tools then there are slots that will show at the top of the GUI."
     ]
   },
   {
@@ -95,7 +95,7 @@
     [
       "Tired of your slow, old diamond pick? Maybe it's time to upgrade! Wyvern tools run on RF and never break.",
       "All mining tools have an option to adjust mining speed, Dig AoE and AoE safe mode.",
-      "Dig AoE: Allows you to adjust the mining AoE of the tool. Wyvern AoE: 1x1 and 3x3.",
+      "Dig AoE: Allows you to adjust the mining AoE of the tool. The Wyvern pickaxes AoE can be switched from 1x1 to 3x3 and vice versa.",
       "AoE Safe mode: If enabled the tool will check for any tile entities in the AoE and if it finds any the tool will not mine.",
       "[c]item.draconicevolution:wyvernPickaxe:0"
     ]
@@ -107,7 +107,7 @@
     [
       "Tired of your slow, old diamond shovel? Maybe it's time to upgrade! Wyvern tools run on RF and never break.",
       "All mining tools have an option to adjust mining speed, Dig AoE and AoE safe mode.",
-      "Dig AoE: Allows you to adjust the digging area of the tool. Wyvern AoE: 1x1 and 3x3.",
+      "Dig AoE: Allows you to adjust the digging area of the tool. The Wyvern shovels AoE can be switched from 1x1 to 3x3 and vice versa.",
       "AoE Safe mode: If enabled the shovel will check for any tile entities in the AoE and if it finds any it will not dig.",
       "[c]item.draconicevolution:wyvernShovel:0"
     ]
@@ -132,7 +132,7 @@
       "Looking for a more powerful bow with some fancy features? This is the one for you. The Wyvern bow has 2 operating modes. Selectable with shift + right click.",
       "Rapid Fire: As the name suggests, it fires arrows at a rather high rate and does moderate damage.",
       "Sharp Shooter: Allows you to zoom in on your target and deal extremely high damage with pin point accuracy.",
-      "Enchantments are also twice as effective on this bow.",
+      "Ontop of that, enchantments are also twice as effective on this bow.",
       "[c]item.draconicevolution:wyvernBow:0"
     ]
   },
@@ -206,7 +206,7 @@
     "images":[],
     "content":
     [
-      "You have managed to infuse the powers of The End with your knowledge of the Draconic to create a basic teleporter, but at a cost.",
+      "You have managed to infuse the powers of the End with your knowledge of the Draconic to create a basic teleporter, but at a cost.",
       "The energies binding them are unstable and only last for 10 uses and will take some of your life energy with each use ",
       "It can only be linked to a single location, but works across dimensions. Once used up, you must create a new one.",
       "[c]item.draconicevolution:teleporterMKI:0"
@@ -287,9 +287,9 @@
     "content":
     [
       "Perhaps not your brightest idea... You found a way to travel even longer distances using ender pearls by strapping them to the end of an arrow.",
-      "This, of course, makes the arrow a lot heavier. Too heavy for a regular bow. Leaving you no choice but to use either a Wyvern or Draconic Bow.",
+      "This, of course, makes the arrow a lot heavier. It is too heavy for a regular bow, leaving you no choice but to use either a Wyvern or Draconic Bow.",
       "So, what could go wrong, you ask? Well, as I'm sure you are aware, ender pearls on their own are a rather painful way to travel. Now add the power of a Wyvern - or worse - a Draconic Bow to that and you have a recipe for extreme pain.",
-      "Be sure to wear your best fall protection. And just hope it's enough.",
+      "Be sure to wear your best fall protection...And just hope it's enough.",
       "[c]item.draconicevolution:enderArrow.name:0"
     ]
   },
@@ -310,7 +310,7 @@
       "The Ritual:",
       "1. Drop a Dragon Heart on the ground and activate it with an explosion.",
       "2. Drop 4 to 16 Draconic Cores on the ground near the activated heart (4 per Charged Draconium Block). A few seconds after its initial activation it will draw all nearby items toward it. Anything that is not a Draconic Core will be destroyed.",
-      "3. Now quickly place 1 to 4 (depending on how many Cores you dropped) Charged Draconium Blocks near the heart.",
+      "3. Now quickly place 1 to 4 (depending on how many Draconic Cores you dropped) Charged Draconium Blocks near the heart.",
       "4. You will know it's working when you see the heart's energy targeting the Charged Draconium Blocks. Now stand back and watch the magic happen.",
       "You can only do this ritual once per heart so you best make the most of it."
     ]
@@ -365,7 +365,7 @@
     [
       "Further Draconic research has shown you ways to even greater power...",
       "Modes: Shift + right-click to switch modes: 1×1, 3×3, 5×5 and 7×7",
-      "Right-click to activate: Obliteration Mode – Destroys blocks that you specify.",
+      "Right-click to activate: Trash mode – Destroys blocks that you specify on the top of the inventory GUI",
       "[c]item.draconicevolution:draconicPickaxe:0"
     ]
   },
@@ -376,7 +376,7 @@
     [
       "Further Draconic research has shown you ways to even greater power...",
       "Modes: Shift + right-click to switch modes: 1×1, 3×3, 5×5 and 7×7",
-      "Right-click to activate: Obliteration Mode – Destroys blocks that you specify.",
+      "Right-click to activate: Trash mode – Destroys blocks that you specify on the top of the inventory GUI",
       "[c]item.draconicevolution:draconicShovel:0"
     ]
   },
@@ -396,7 +396,7 @@
     "content":
     [
       "Further Draconic research has shown you ways to even greater power...",
-      "This tool will till an entire 9×9 area - perfect for a full-size farm with water source.",
+      "This tool will till an entire 9×9 area - perfect for a full-size farm with a water source.",
       "It will also will dig or replace dirt (if you have dirt in your inventory) to make the full 9×9.",
       "[c]item.draconicevolution:draconicHoe:0"
     ]
@@ -421,7 +421,7 @@
       "Further Draconic research has shown you ways to even greater power...",
       "Sharpshooter – Zoom in on your target and deal extreme damage with pin point accuracy.",
       "Rapid Fire – Barrage your enemies in a rain of arrows.",
-      "Explosive – With gunpowder in your inventory destroy an area slightly larger than TNT with your arrows.",
+      "Explosive – With gunpowder in your inventory you can destroy an area slightly larger than TNT with your arrows. Though, it takes longer to drawback the arrow",
       "Devastation (Creative Mode only) – Explosive + Double rapid fire",
       "[c]item.draconicevolution:draconicBow:0"
     ]
@@ -434,7 +434,7 @@
       "After great pains you have mastered the powers of the Draconic and created the ultimate weapon and destructive tool!",
       "Mining:",
       "  Extreme mining speed",
-      "  1x1x1 to 9x9x9 AoE with depth independently adjustable",
+      "  1x1x1 to 9x9x9 AoE. Depth is independently adjustable",
       "  Junk filter",
       "  AoE safe mode to ensure you don't accidentally mine your entire base",
       "Attack:",
@@ -495,7 +495,7 @@
     "images":[],
     "content":
     [
-      "Stronger, faster, better than before. The heart of a dragon grants you higher jumping.",
+      "Stronger, faster, and better than before. The heart of a dragon grants you higher jumping.",
       "- Fall protection",
       "- Jump boost",
       "- Up Hill Step",
@@ -507,7 +507,7 @@
     "images":[],
     "content":
     [
-      "This is a block that allows you to control the weather. To use it place some Emeralds in its inventory and select a mode. There are 3 available modes: 'Rain off', 'Rain on' and 'Thunder storm'.",
+      "This is a block that allows you to control the weather. To use it, just place some Emeralds in its inventory and select a mode. There are 3 available modes: 'Rain off', 'Rain on' and 'Thunder storm'.",
       "To activate it, you need to apply a redstone signal.",
       "[c]tile.draconicevolution:weatherController:0"
     ]
@@ -560,7 +560,7 @@
     "images":[],
     "content":
     [
-      "Simple player detection. It can be adjusted to detect players in a range of up to 10 blocks.",
+      "A simple player detector. It can be adjusted to detect players in a range of up to 10 blocks.",
       "[c]tile.draconicevolution:playerDetector:0"
     ]
   },
@@ -570,7 +570,7 @@
     "content":
     [
       "This is an advanced version of the Player Detector.",
-      "It has a maximum range of 20 blocks, a whitelist or blacklist for fine-tuning who to detect, camouflage (allowing you to hide your detector so no one sees it) and inverted output to simplify redstone configuration.",
+      "It has a maximum range of 20 blocks, a whitelist or blacklist for fine-tuning who to detect, camouflage (allowing you to hide your detector so no one sees it), and inverted output to simplify redstone configuration.",
       "[c]tile.draconicevolution:playerDetectorAdvanced:0"
     ]
   },
@@ -580,9 +580,9 @@
     "images":[],
     "content":
     [
-      "Gates come in two different flavours: flux and fluid. What they do is simply to allow you to control the maximum amount of Redstone Flux or Fluid that may pass through them each tick.",
-      "These devices are very simple to use. They have an input face (blue) and an output face (orange). When you place them the input face will always point towards you, similar to the way you place a piston. You can also rotate them with a wrench.",
-      "The GUI is very simple with only 2 values for you to adjust. \"Redstone Signal High\" is the flow when a redstone signal of 15 is applied. \"Redstone Signal Low\" is the flow when no redstone signal is applied. You can apply a partial signal to vary the actual flow rate between these two numbers. The \"Flow\" indicator at the bottom shows how much energy or fluid is currently able to flow through the device as determined by the received redstone signal.",
+      "Gates come in two different flavours: flux and fluid. What they do is simply to allow you to control the maximum amount of Redstone Flux or fluid that may pass through them each tick.",
+      "These devices are very simple to use. They have an input face (blue) and an output face (orange). The input face will always point towards you when you place them, similar to the way you place a piston. You can also rotate them with a wrench.",
+      "The GUI is very simple with only 2 values for you to adjust. \"Redstone Signal High\" is the flow when a redstone signal of 15 is applied. \"Redstone Signal Low\" is the flow when no redstone signal is applied. You can apply a partial signal to vary the actual flow rate between these two numbers. The \"flow\" indicator at the bottom shows how much Redstone Flux or fluid is currently able to flow through the device which is determined by the received redstone signal.",
       "[c]tile.draconicevolution:flowGate:0",
       "[c]tile.draconicevolution:flowGate:6"
     ]
@@ -652,7 +652,7 @@
     "images":[],
     "content":
     [
-      "Unimpressed by the limited energy generated through manipulation of the mundane reagents of your world, and knowing the potential within the realm of Chaos, you exercise your extensive knowledge of the Power Draconic to create what is possibly the most dangerously concentrated energy source in the history of the Redstone Flux.",
+      "Unimpressed by the limited energy generated through manipulation of the mundane reagents of your world, and knowing the potential within the realm of Chaos, you exercise your extensive knowledge of the power of Draconic to create what is possibly the most dangerously concentrated energy source in the history of Redstone Flux.",
       "Power does not come without sacrifice, and great power does not come without great sacrifice.  This level of power will test your metal as you begin to conceptualize the means by which to make your vision of such power into a reality. You see the potential for untold destruction should you fail, but at this point, the life of mere mortal beings and the single world they populate is far beneath your immediate concern.  Be sure to consider well the blueprints you have devised as even a simple oversight could cost you more than you bargain for.  But such is the risk taken by those who seek to become like the gods.",
 
       "Basic Explanation of Reactor Mechanic:",
@@ -753,7 +753,7 @@
     "images":[],
     "content":
     [
-      "This is the block used to actually import and export energy from the energy network.",
+      "This is actual block that is used to import and export energy from the energy network.",
       "Simply place it next to an energy acceptor or producer and link it to the network. You can switch between input and output mode by right-clicking it with a Crystal Binder in \"Mode Change\" mode.",
       "See the Crystal Binder for more information on how to link them and about energy distribution.",
       "Range: 25",
@@ -827,7 +827,7 @@
     "images":[],
     "content":
     [
-      "A device that emits a redstone signal when it rains. This is perfect for signaling the weather controller.",
+      "A device that emits a redstone signal when it rains. This is perfect for signaling the weather controller to make the rain go away.",
       "[c]ile.draconicevolution:rainSensor:0"
     ]
   },
@@ -928,7 +928,7 @@
       "To add and remove energy from the core you need to place energy pylons within 15 blocks of the core. To activate a pylon place a glass block either above or below it – depending on whether the pylon is placed below or above the core e.g. if you place the pylon on your roof you would place the glass block under it.",
       "http://i.imgur.com/rS9rOoF.png",
       "When the glass block is placed the pylon should immediately activate and link with a nearby Energy Core. The link is indicated by white energy particles and the glass should change to the renderer shown in the image above. You can shift right-click the pylon to change which core it is linked to if there is more than one within range.",
-      "Energy is added and removed from the core using Energy Pylons. To toggle a Pylon between input and output mode simply right-click the sphere. The mode is identified by the colour of the Pylon (blue for input and orange for output).",
+      "Energy is added and removed from the core using Energy Pylons. To toggle a Pylon between input and output mode simply right-click the Pylon. The mode is identified by the colour of the Pylon (blue for input and orange for output).",
       "Energy Transfer between the pylon and the core is indicated by a stream of blue energy particles flowing between the Pylon sphere and the core. The amount of energy flowing is roughly indicated by the density of the particle stream.",
       "The energy stored in the core is displayed on the HUD when you look at it and in chat when you right-click it. The core will also change to a dark red colour as it fills. Its energy level can be read by placing a comparator on one of the attached pylons."
     ]
